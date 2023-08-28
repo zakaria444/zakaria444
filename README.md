@@ -39,7 +39,7 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+## 📊 My Github Stats !
 
   <br/>
     <a href="https://github.com/zakaria444/github-readme-stats"><img alt="Zakaria Elismaili's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zakaria444&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
