@@ -14,7 +14,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](link)** -->
 
-- 📫 How to reach me **elismailizakariae@gmail.com**
+- 📫 How to reach me **elismailizakariae@gmail.com  !**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
